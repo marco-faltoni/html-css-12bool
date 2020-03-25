@@ -23,6 +23,11 @@ body {
     border: 2px solid black;
 }
 
+.colored4 {
+    height: 90px;
+    background-color: #8594e4;
+}
+
 .scritte {
     padding-top: 10px;
 }
