@@ -1,0 +1,39 @@
+
+body {
+    margin-top: 130px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+
+.colored {
+    height: 90px;
+    background-color: #8594e4;
+    border: 1px solid #78b0a0;
+}
+
+.colored2 {
+    height: 90px;
+    background-color: #967248;
+    border: 2px solid #fde9c9;
+}
+
+.colored3 {
+    height: 90px;
+    background-color: #7dc383;
+    border: 2px solid black;
+}
+
+.scritte {
+    padding-top: 10px;
+}
+
+.scritte2 {
+    padding-top: 10px;
+    text-align: center;
+}
+
+p {
+    color: white;
+    line-height: 1.5rem;
+    font-size: 25px
+}
